@@ -1,2 +1,2 @@
 # ID-Card-Generator
-https://lokesh-fsd.github.io/ID-Card-Generator/
+https://codepen.io/LokeshDwivedi/full/LYbxEog
